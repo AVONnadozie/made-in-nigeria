@@ -111,6 +111,7 @@
 
 ## <a name="L"> </a>L
 
+* [LiteFrame](https://github.com/AVONnadozie/LiteFrame) - A lightweight PHP framework for small and medium scale applications. Uses RedBeanPHP to automatically build your database on the fly. (No migration files required)   **By [@AVONnadozie](https://twitter.com/AVONnadozie)**
 * [Linda ORM](https://github.com/solutionstack/Linda) - A light weight and fast Active-record based ORM for PHP   **By [@solutionstack](https://github.com/solutionstack)**
 * [Laravel Codepen](https://github.com/unicodeveloper/laravel-codepen) - A Codepen Package for Laravel 5 **By [@unicodeveloper](https://twitter.com/unicodeveloper)**
 * [Laravel Email Validator](https://github.com/unicodeveloper/laravel-email-validator) - Validate email addresses on the fly in Laravel 5 **By [@unicodeveloper](https://twitter.com/unicodeveloper)**
